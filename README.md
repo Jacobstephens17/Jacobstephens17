@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... A web application with a built in service tracker for Family Promise
-- 🌱 I’m currently learning ... Swift
+- 🌱 I’m currently learning ... SwiftUI
 - 👯 I’m looking to collaborate on ... Open Source, Non-Profit projects
 - 🤔 I’m looking for help with ... Understaning AI  
 - 💬 Ask me about ... react-three-fiber/drei
